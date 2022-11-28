@@ -1,0 +1,39 @@
+h5{
+    margin:0;
+    padding:7px;
+}
+p{
+    background-color: rgb(230, 184, 34);
+    border-radius: 12px 0px;
+    border-radius: 12px 12px 0px 0px ;
+}
+
+.head{
+   margin:auto;
+    max-width: 440px;
+    
+    justify-content: center;
+}
+
+.inhead{
+background-color: rgb(5, 158, 133);
+padding: 0px 20px 50px 20px;
+border-radius: 0px 0px 12px 12px;
+}
+table,tr,td{
+    border-bottom: 5px solid rgb(219, 217, 217);
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    min-width: 50%;
+  width: auto;
+  box-shadow: inset;
+}
+input{
+    width: 77%;
+}
+
+#pbutton a:active{
+    text-decoration: line-through;
+    
+}
